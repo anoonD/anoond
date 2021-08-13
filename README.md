@@ -1,4 +1,4 @@
-![nope](https://raw.githubusercontent.com/anoonD/anoond-web/master/img/cat-sup.gif)
+![nope](https://raw.githubusercontent.com/anoonD/anoond-web/master/data/cat-sup.gif)
 <!--
 **anoonD/anoond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
